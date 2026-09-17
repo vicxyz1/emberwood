@@ -2,6 +2,8 @@
 
 A standalone React + Vite tower-defense game with illustrated forest terrain, three tower types, ten waves, a final boss, gold rewards, and three levels each of damage and fire-rate upgrades.
 
+![Emberwood concept](public/assets/concept.png)
+
 ## Run
 
 ```sh
